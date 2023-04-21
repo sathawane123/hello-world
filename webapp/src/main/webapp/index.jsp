@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>ukhakrashale nikhil n repoe push kele</h1>
+    <h1>Eid mubarakho</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
